@@ -19,6 +19,7 @@ We found Dino Game created by Izabela Toledo. The original project can be viewed
 ## Features implemented
  - A **score** was added as well as a **blinking line** indicating to press ENTER to start the fun.                  
  - In order to implemented these features, functions **start**, **StartGame** and **StartScore** were added to the project. 
+ - Have fun: [Dino Game](https://dino-game-space-squad.netlify.app/)
   
 ## Languages 
 - Html5 (Hypertext)
